@@ -11,7 +11,7 @@ import SwiftUI
 struct ExpandedListView_SwiftUiApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ExpandedList()
         }
     }
 }
